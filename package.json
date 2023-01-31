@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/rowida22/php_pro#readme",
   "devDependencies": {
-    "json-server": "^0.17.1",
+    "json-server": "^0.17.1"
+  },
+  "dependencies": {
     "json-server-auth": "^2.1.0"
   }
 }
