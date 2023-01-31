@@ -41,7 +41,6 @@
     }
   ],
   "users": [
-<<<<<<< HEAD
     {
       "email": "salma@mail.com",
       "password": "$2a$10$wRAUFP4f4fDyMGsa1W/fpe9HOhFmhwzmtnw61An493EIIscoFITS.",
@@ -49,8 +48,3 @@
     }
   ]
 }
-=======
-  
-  ]
-}
->>>>>>> b1d7bfeda89b82ea52288582fab657db89ed9209
