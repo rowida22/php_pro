@@ -1,0 +1,19 @@
+{
+  "name": "php_pro",
+  "version": "1.0.0",
+  "description": "Testing Fake form using postman",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rowida22/php_pro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rowida22/php_pro/issues"
+  },
+  "homepage": "https://github.com/rowida22/php_pro#readme"
+}
