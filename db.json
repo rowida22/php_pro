@@ -41,10 +41,6 @@
     }
   ],
   "users": [
-    {
-      "email": "lila@mail.com",
-      "password": "test@1234",
-      "id": 1
-    }
+  
   ]
 }
