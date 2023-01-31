@@ -41,6 +41,10 @@
     }
   ],
   "users": [
-    
+    {
+      "email": "salma@mail.com",
+      "password": "$2a$10$wRAUFP4f4fDyMGsa1W/fpe9HOhFmhwzmtnw61An493EIIscoFITS.",
+      "id": 1
+    }
   ]
 }
