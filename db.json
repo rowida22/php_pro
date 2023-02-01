@@ -27,7 +27,8 @@
             "email": "mona@gmail.com",
             "password": "123@123",
             "gender": "female",
-            "track": "Machine learning"
+            "track": "Machine learning",
+            "certifications": "AI"
         },
         {
             "id": "4",
@@ -78,3 +79,4 @@
         }
     ]
 }
+
