@@ -1,50 +1,80 @@
 {
-  "contantInfo": [
-    {
-      "id": "1",
-      "firstname": "ruwida",
-      "lastname": "muhammad",
-      "email": "ruwida@gmail.com",
-      "password": "test@1234",
-      "gender": "female",
-      "track": "Software Testing",
-      "certifications": ""
-    },
-    {
-      "id": "1",
-      "firstname": "salma",
-      "lastname": "muhammad",
-      "email": "salma@gmail.com",
-      "password": "testggh",
-      "gender": "female",
-      "track": "Full Stack ",
-      "certifications": ""
-    },
-    {
-      "id": 2,
-      "firstname": "mona",
-      "lastname": "muhammad",
-      "email": "mona@gmail.com",
-      "password": "123@123",
-      "gender": "female",
-      "track": "Machine learning"
-    },
-    {
-      "id": "4",
-      "firstname": "nour",
-      "lastname": "osaman",
-      "email": "nour@gmail.com",
-      "password": "test",
-      "gender": "male",
-      "track": "Full Stack ",
-      "certifications": ""
-    }
-  ],
-  "users": [
-    {
-      "email": "salma@mail.com",
-      "password": "$2a$10$wRAUFP4f4fDyMGsa1W/fpe9HOhFmhwzmtnw61An493EIIscoFITS.",
-      "id": 1
-    }
-  ]
+    "contantInfo": [
+        {
+            "id": "1",
+            "firstname": "ruwida",
+            "lastname": "muhammad",
+            "email": "ruwida@gmail.com",
+            "password": "test@1234",
+            "gender": "female",
+            "track": "Software Testing",
+            "certifications": "ISTQB"
+        },
+        {
+            "id": "1",
+            "firstname": "salma",
+            "lastname": "muhammad",
+            "email": "salma@gmail.com",
+            "password": "testggh",
+            "gender": "female",
+            "track": "Full Stack ",
+            "certifications": "ISTQB"
+        },
+        {
+            "id": 2,
+            "firstname": "mona",
+            "lastname": "muhammad",
+            "email": "mona@gmail.com",
+            "password": "123@123",
+            "gender": "female",
+            "track": "Machine learning"
+        },
+        {
+            "id": "4",
+            "firstname": "nour",
+            "lastname": "osaman",
+            "email": "nour@gmail.com",
+            "password": "test",
+            "gender": "male",
+            "track": "Full Stack ",
+            "certifications": ""
+        },
+        {
+            "id": "5",
+            "firstname": "soha",
+            "lastname": "osaman",
+            "email": "soha@gmail.com",
+            "password": "blahblah",
+            "gender": "female",
+            "track": "Full Stack",
+            "certifications": ""
+        },
+        {
+            "id": "4",
+            "firstname": "mansour",
+            "lastname": "ahmed",
+            "email": "mansour@gmail.com",
+            "password": "test",
+            "gender": "male",
+            "track": "IOS Development",
+            "certifications": ""
+        },
+        {
+            "id": "7",
+            "firstname": "zain",
+            "lastname": "mohsan",
+            "email": "zain@gamil.com",
+            "password": "tamam123",
+            "gender": "male",
+            "track": "Machine learning",
+            "certifications": ""
+        }
+    ],
+    "users": [
+        {
+            "email": "salma@mail.com",
+            "password": "$2a$10$wRAUFP4f4fDyMGsa1W\/fpe9HOhFmhwzmtnw61An493EIIscoFITS.",
+            "id": 1
+        }
+    ]
 }
