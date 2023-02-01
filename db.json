@@ -69,7 +69,27 @@
             "gender": "male",
             "track": "Machine learning",
             "certifications": ""
-        }
+        },
+        {
+            "id": "9",
+            "firstname": "nasser",
+            "lastname": "mamdoh",
+            "email": "nasser@gmail.com",
+            "password": "test@1234",
+            "gender": "male",
+            "track": "Software Testing",
+            "certifications": ""
+        },
+        {
+          "id": "10",
+          "firstname": "ahmed",
+          "lastname": "yasser",
+          "email": "ahmed@gmail.com",
+          "password": "test@1234",
+          "gender": "male",
+          "track": "Software Testing",
+          "certifications": ""
+      }
     ],
     "users": [
         {
