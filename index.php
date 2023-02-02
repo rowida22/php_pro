@@ -66,11 +66,11 @@
             <label>StudentID</label>
           </td>
           <td>
-            <input type="number_format"
+            <input type="number"
               name="id"
               id="id"
               required
-              placeholder=" id:">
+              placeholder=" id:"/>
           </td>
         </tr>
         <tr>
