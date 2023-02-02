@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "contantInfo": [
         {
             "id": "1",
@@ -89,3 +90,115 @@
         }
     ]
 }
+=======
+  "contantInfo": [
+    {
+      "id": 1,
+      "firstname": "ruwida",
+      "lastname": "muhammad",
+      "email": "ruwida@gmail.com",
+      "password": "test@1234",
+      "gender": "female",
+      "track": "Software Testing",
+      "certifications": "ISTQB"
+    },
+    {
+      "id": 1,
+      "firstname": "salma",
+      "lastname": "muhammad",
+      "email": "salma@gmail.com",
+      "password": "testggh",
+      "gender": "female",
+      "track": "Software Testing",
+      "certifications": "ISTQB"
+    },
+    {
+      "id": 2,
+      "firstname": "mona",
+      "lastname": "muhammad",
+      "email": "mona@gmail.com",
+      "password": "123@123",
+      "gender": "female",
+      "track": "Machine learning",
+      "certifications": "AI"
+    },
+    {
+      "id": 3,
+      "firstname": "nour",
+      "lastname": "osaman",
+      "email": "nour@gmail.com",
+      "password": "test",
+      "gender": "male",
+      "track": "Full Stack ",
+      "certifications": ""
+    },
+    {
+      "id": 4,
+      "firstname": "soha",
+      "lastname": "osaman",
+      "email": "soha@gmail.com",
+      "password": "blahblah",
+      "gender": "female",
+      "track": "Full Stack",
+      "certifications": ""
+    },
+    {
+      "id": 5,
+      "firstname": "mansour",
+      "lastname": "ahmed",
+      "email": "mansour@gmail.com",
+      "password": "test",
+      "gender": "male",
+      "track": "IOS Development",
+      "certifications": ""
+    },
+    {
+      "id": 6,
+      "firstname": "zain",
+      "lastname": "mohsan",
+      "email": "zain@gamil.com",
+      "password": "tamam123",
+      "gender": "male",
+      "track": "Machine learning",
+      "certifications": ""
+    },
+    {
+      "firstname": "rania",
+      "lastname": "mahmoud",
+      "email": "rania@gmail.com",
+      "password": "test",
+      "gender": "male",
+      "track": "Software Testing",
+      "certifications": "",
+      "id": 7
+    },
+    {
+      "id": 8,
+      "firstname": "tasnim",
+      "lastname": "omar",
+      "email": "tasnim@gmail.com",
+      "password": "test234",
+      "gender": "female",
+      "track": "Machine learning",
+      "certifications": ""
+    },
+    {
+      "firstname": "tamer",
+      "lastname": "yahia",
+      "email": "tamer@gmail.com",
+      "password": "test112",
+      "gender": "male",
+      "track": "Software Testing",
+      "certifications": "",
+      "id": 9
+    }
+  ],
+  "users": [
+    {
+      "email": "salma@mail.com",
+      "password": "$2a$10$wRAUFP4f4fDyMGsa1W/fpe9HOhFmhwzmtnw61An493EIIscoFITS.",
+      "id": 1
+    }
+  ]
+}
+>>>>>>> bff040018f3994ff2845133ded1c39121087c203
