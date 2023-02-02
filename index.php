@@ -66,7 +66,7 @@
             <label>StudentID</label>
           </td>
           <td>
-            <input type="number_format"
+            <input type="number"
               name="id"
               id="id"
               required
