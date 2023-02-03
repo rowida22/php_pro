@@ -6,7 +6,7 @@
 		// to hold the values we will store.
 		// var currentId;
 		$new_message = array(
-			"id" => $_POST['id'],
+			"id" => intval( $_POST['id']),
 			"firstname" => $_POST['firstname'],
 			"lastname" => $_POST['lastname'],	
 			"email" => $_POST['email'],
